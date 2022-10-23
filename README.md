@@ -1,5 +1,7 @@
 # CRF Ingredient Phrase Tagger
 
+This is a fork of  SimonBoorer/node-ingredient-phrase-tagger but without the unnecessary bloat, code formatting tools, and vulnerable packages. This is intended to be published as a nodejs module that can be imported.
+
 NodeJS port of NYTimes [CRF Ingredient Phrase Tagger](https://github.com/NYTimes/ingredient-phrase-tagger).
 
 This repo contains scripts to extract the Quantity, Unit, Name, and Comments
