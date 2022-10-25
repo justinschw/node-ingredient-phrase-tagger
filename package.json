@@ -1,5 +1,5 @@
 {
-  "name": "justinschw/ingredient-phrase-tagger",
+  "name": "ingredients-parse-crf",
   "version": "1.0.0",
   "description": "NodeJS port of NYTimes CRF Ingredient Phrase Tagger",
   "main": "./lib/index.js",
